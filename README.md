@@ -2,15 +2,17 @@
 <h1 align="center">ooi, eu sou a ✨tarciane✨</h1>
 
 
+<h4 align> Quem sou eu: </h4>
 
-<h4 align>
+<h5 align>
  
 👩‍🎓 formada em técnico de redes de computadores - Faculdade de Macapá - FAMA</br>
 
 👩‍💻 estudante de ciência da computação - Universidade Federal do Amapá - UNIFAP</br>
 
 👩‍🔧 trabalhando como analista de suporte computacional 
-</h4>
+
+</h5>
 
 
 
