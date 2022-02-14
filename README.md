@@ -1,7 +1,7 @@
 
 <h1 align="center">ooi, eu sou a ✨tarciane✨</h1>
 
-<h3 align="center">apaixonada por programação ❤️ </h3>
+
 
 
 ![Tarciane's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarci-ane&show_icons=true&theme=dracula)
