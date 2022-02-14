@@ -1,38 +1,30 @@
 
-<h1 align="center">ooi, eu sou a tarciane</h1>
-<h3 align="center">apaixonada por programação</h3>
+<h1 align="center">ooi, eu sou a ✨tarciane✨</h1>
+
+<h3 align="center">apaixonada por programação ❤️ </h3>
+
+
+![Tarciane's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarci-ane&show_icons=true&theme=dracula)
 
 
 
-- atualmente estou aprendendo **JAVA e Phyton**
+<h4 align> Linguagens mais usadas: </h4>
+<div style= "display": inline_block></br>
 
-- me pergunte sobre **analise e programação**
-
-- você pode me achar em **tarciane.marluce@gmail.com**
-
-- minhas experiências estão [https://www.linkedin.com/in/tarciane-marluce](https://www.linkedin.com/in/tarciane-marluce)
-
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tarciane-marluce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarciane-marluce" height="30" width="40" /></a>
-</p>
-
-<h5 align="left">Languages and Tools:</h5>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
 
 
+<h4 align>Sistema operacional mais usadas: </h4>
+
+<div style= "display": inline_block></br>
+<img aling="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</div>
 
 
-<!---
 
 
-- 👋 Hi, I’m @tarci-ane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-tarci-ane/tarci-ane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
