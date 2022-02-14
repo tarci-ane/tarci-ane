@@ -22,9 +22,13 @@
 
 <div style= "display": inline_block></br>
 <img aling="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
 </div>
 
 
+<div>
+<a href = "tarciane.marluce@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
 
 
 
