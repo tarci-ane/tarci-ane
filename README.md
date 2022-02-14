@@ -8,7 +8,7 @@
 
 
 
-<h4 align> Linguagens mais usadas: </h4>
+<h4 align> Linguagens que estou aprendendo a usar: </h4>
 <div style= "display": inline_block></br>
 
 <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
