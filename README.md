@@ -4,13 +4,13 @@
 
 
 
-- 🌱 atualmente estou aprendendo **JAVA e Phyton**
+- atualmente estou aprendendo **JAVA e Phyton**
 
-- 💬 me pergunte sobre **analise e programação**
+- me pergunte sobre **analise e programação**
 
-- 📫 você pode me achar em **tarciane.marluce@gmail.com**
+- você pode me achar em **tarciane.marluce@gmail.com**
 
-- 📄 minhas experiências estão [https://www.linkedin.com/in/tarciane-marluce](https://www.linkedin.com/in/tarciane-marluce)
+- minhas experiências estão [https://www.linkedin.com/in/tarciane-marluce](https://www.linkedin.com/in/tarciane-marluce)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
