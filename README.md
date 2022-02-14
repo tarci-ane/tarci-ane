@@ -30,7 +30,7 @@
 
 <div> 
  
-<h4 align>Você pode entrar em contato comigo no: 📧 tarciane.marluce@gmail.com 📧 </h4>
+<h4 align>Você pode entrar em contato pelo: </h4>
 
 
 
