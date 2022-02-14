@@ -28,8 +28,21 @@
 
 </div>
 
-
+<div> 
+ 
 <h4 align>Você pode entrar em contato comigo no: 📧 tarciane.marluce@gmail.com 📧 </h4>
 
+
+
+<a href = "mailto: tarciane.marluce@gmail.com">
+<img width="30" src="gmail.svg"
+
+</a>
+
+ <a href = "https://www.linkedin.com/in/tarciane-marluce/">
+<img width="25" src="linkedin.svg"
+     </a>
+
+</div>
 
 
