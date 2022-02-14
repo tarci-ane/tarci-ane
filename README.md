@@ -9,7 +9,7 @@
 
 👩‍💻 estudante de ciência da computação - Universidade Federal do Amapá - UNIFAP</br>
 
-👩‍🔧 trablhando como analista de suporte computacional  
+👩‍🔧 trabalhando como analista de suporte computacional 
 </h4>
 
 
