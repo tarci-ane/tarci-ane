@@ -21,7 +21,7 @@
 </div>
 
 
-<h4 align>Sistema operacional mais usadas: </h4>
+<h4 align>Sistema operacional mais usado: </h4>
 
 <div style= "display": inline_block></br>
  <img aling="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -35,12 +35,12 @@
 
 
 <a href = "mailto: tarciane.marluce@gmail.com">
-<img width="30" src="gmail.svg"
+<img width="40" src="gmail.svg"
 
 </a>
 
  <a href = "https://www.linkedin.com/in/tarciane-marluce/">
-<img width="25" src="linkedin.svg"
+<img width="33" src="linkedin.svg"
      </a>
 
 </div>
