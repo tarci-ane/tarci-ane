@@ -3,6 +3,17 @@
 
 
 
+<h4 align>
+ 
+👩‍🎓 formada em técnico de redes de computadores - Faculdade de Macapá - FAMA</br>
+
+👩‍💻 estudante de ciência da computação - Universidade Federal do Amapá - UNIFAP</br>
+
+👩‍🔧 trablhando como analista de suporte computacional  
+</h4>
+
+
+
 
 ![Tarciane's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarci-ane&show_icons=true&theme=dracula)
 
