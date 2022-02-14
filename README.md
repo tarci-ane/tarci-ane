@@ -1,4 +1,4 @@
-<h1 align="center">ooi 👋, eu sou a tarciane</h1>
+<h1 align="center">ooi, eu sou a tarciane</h1>
 <h3 align="center">apaixonada por programação</h3>
 
 
