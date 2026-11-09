@@ -8,7 +8,7 @@
  
 🙎‍♀️ me chamo Tarciane Marluce </br>
  
-🌱 tenho 27 anos </br>
+🌱 tenho 31 anos </br>
  
 👩‍🎓 formada em técnico de redes de computadores - Faculdade de Macapá - FAMA</br>
 
